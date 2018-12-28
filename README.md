@@ -1,2 +1,2 @@
-# git_learn
-##git clone 指令
+#helm chart
+## 搭建私有的chart库
